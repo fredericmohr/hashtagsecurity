@@ -1,0 +1,2 @@
+// Working: Clear Text
+[{"text":"html-tags are not filtered on purpose, js however is blocked by our CSP"},{"text":" breakout"}];alert(1);[{"test":"success"}]

