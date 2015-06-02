@@ -1,0 +1,103 @@
+#!/bin/sh
+### BEGIN INIT INFO
+# Provides:          skeleton
+# Required-Start:    $remote_fs $syslog
+# Required-Stop:     $remote_fs $syslog
+# Default-Start:     2 3 4 5
+# Default-Stop:      0 1 6
+# Short-Description: Example initscript
+# Description:       This file should be used to construct scripts to be
+#                    placed in /etc/init.d.
+### END INIT INFO
+
+# Author: Foo Bar <foobar@baz.org>
+#
+# Please remove the "Author" lines above and replace them
+# with your own name if you copy and modify this script.
+
+# Do NOT "set -e"
+
+# PATH should only include /usr/* if it runs after the mountnfs.sh script
+
+# Kibana 4.0 startup script
+PATH=/sbin:/usr/sbin:/bin:/usr/bin
+DESC="Kibana 4.0 GUI service"
+NAME=kibana
+DAEMON=/srv/kibana/bin/$NAME 
+DAEMON_ARGS=""
+PIDFILE=/var/run/$NAME.pid
+SCRIPTNAME=/etc/init.d/$NAME
+
+
+# CHECK IF KIBANA PID FILE IS PRESENT AND MATCHING PROCESS IS RUNNING
+if [ -f /var/run/kibana.pid ]; then
+  sleep 1
+  ps aux |grep $(cat /var/run/kibana.pid) |grep kibana > /dev/null
+  if [ "$?" != "0" ]; then
+    echo -n "Kibana PID found: "
+    echo "but Kibana is not running, removing pid file"
+    rm $PIDFILE
+  fi
+fi
+
+
+[ -x "$DAEMON" ] || exit 0
+[ -r /etc/default/$NAME ] && . /etc/default/$NAME
+. /lib/init/vars.sh
+. /lib/lsb/init-functions
+
+
+
+do_start()
+{
+        start-stop-daemon --background -m --start --quiet --pidfile $PIDFILE --exec $DAEMON
+}
+
+do_stop()
+{
+        if [ -f $PIDFILE ]; then
+          kill -15 $(cat $PIDFILE) && rm $PIDFILE
+        else
+          echo " * Kibana is not running (no pid file)"
+        fi
+}
+
+do_reload() {
+        echo "Reload function not implemented!"
+}
+
+case "$1" in
+  start)
+        [ "$VERBOSE" != no ] && log_daemon_msg "Starting $DESC" "$NAME"
+        do_start
+        case "$?" in
+                0|1) [ "$VERBOSE" != no ] && log_end_msg 0 ;;
+                2) [ "$VERBOSE" != no ] && log_end_msg 1 ;;
+        esac
+        ;;
+  stop)
+        [ "$VERBOSE" != no ] && log_daemon_msg "Stopping $DESC" "$NAME"
+        do_stop
+        case "$?" in
+                0|1) [ "$VERBOSE" != no ] && log_end_msg 0 ;;
+                2) [ "$VERBOSE" != no ] && log_end_msg 1 ;;
+        esac
+        ;;
+  status)
+        status_of_proc "$DAEMON" "$NAME" && exit 0 || exit $?
+        ;;
+  restart|force-reload)
+        log_daemon_msg "Restarting $DESC" "$NAME"
+        do_stop
+        sleep 1
+        do_start
+        sleep 1 
+        status_of_proc "$DAEMON" "$NAME" && exit 0 || exit $?
+        ;;
+  *)
+        echo "Usage: $SCRIPTNAME {start|stop|status|restart|force-reload}" >&2
+        exit 3
+        ;;
+esac
+
+:
